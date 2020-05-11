@@ -1,6 +1,6 @@
 # contextual
 
-Move here: https://github.com/contextual-contribs/contextual
+Moved here: https://github.com/contextual-contribs/contextual
 
 A proposal for a new programming language, or meta-language, designed for radical brevity plus human-readability. 
 
